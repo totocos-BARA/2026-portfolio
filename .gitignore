@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Claude Code 설정 (로컬 전용)
+.claude/
+
+# 로컬 백업 파일
+index_backup.html
+*_backup.html
+
+# 임시·메모 파일
+*.txt
+편집_가이드.md
+
+# 큰 원본 PDF (사이트에서 참조하지 않음)
+전용진_포트폴리오.pdf
+
+# Logs
+*.log
